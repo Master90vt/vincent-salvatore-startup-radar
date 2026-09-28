@@ -2993,6 +2993,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-6W7I92LaqIPkpSB",
+    "name": "Startup Speedrun Hackathon",
+    "startISO": "2026-09-28T16:00:00.000Z",
+    "endISO": "2026-09-29T00:00:00.000Z",
+    "format": "offline",
+    "venue": "San Francisco, CA",
+    "address": "Cloudflare",
+    "city": "San Francisco",
+    "topic": "Startup Speedrun Hackathon",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/g42o84ln",
+    "notes": "Fonte Luma · Brainbase Labs · Host: Gokhan Egri",
+    "goodForCards": true,
+    "types": [
+      "Workshop"
+    ],
+    "zone": "us",
+    "source": "luma"
+  },
+  {
     "id": "luma-evt-mXyRm9a4VmRxIuA",
     "name": "🧠 AI Builders Zurich #5",
     "startISO": "2026-09-28T16:30:00.000Z",
@@ -3026,7 +3050,7 @@
     "address": "A Beautiful Mess - Amsterdam",
     "city": "Amsterdam",
     "topic": "Storywise: (Still) finding my voice | Storytelling and Business Networking",
-    "price": "€23–€47",
+    "price": "{'cents': 2300, 'currency': 'eur', 'is_flexible': False}–{'cents': 4700, 'currency': 'eur'}",
     "priceNote": "range biglietti Luma",
     "audience": "Founders / investors / startup community",
     "distKm": null,
@@ -3167,6 +3191,37 @@
     "distNote": "New York",
     "url": "https://luma.com/5wnymc0y",
     "notes": "Luma · NYU Center on International Cooperation",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "us",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-29O2ApNOgSxSYfz",
+    "name": "Craft & Connect Stitch Night at Luminary",
+    "startISO": "2026-09-28T21:30:00.000Z",
+    "endISO": "2026-09-29T00:00:00.000Z",
+    "format": "offline",
+    "venue": {
+      "city": "Chicago",
+      "region": "Illinois",
+      "country": "United States",
+      "place_id": "ChIJ7cv00DwsDogRAMDACa2m4K8",
+      "timezone": "America/Chicago",
+      "country_code": "US"
+    },
+    "address": "New York, NY",
+    "city": "New York",
+    "topic": "Craft & Connect Stitch Night at Luminary — GoSadi & Stitch Up Events",
+    "price": "{'cents': 1000, 'currency': 'usd', 'is_flexible': False}–{'cents': 2000, 'currency': 'usd'}",
+    "priceNote": "range biglietti Luma",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/LuminarySeptemberCraftNight",
+    "notes": "Fonte Luma · GoSadi & Stitch Up Events · Host: Michele Costa, GoSadi, Gotham Knits",
     "goodForCards": true,
     "types": [
       "VC/Angel networking"
@@ -3662,13 +3717,13 @@
     "address": "12 Colville Mews",
     "city": "London",
     "topic": "Before You Build Bigger: A Founder & Investor Discussion",
-    "price": "£12–£25",
+    "price": "{'cents': 1200, 'currency': 'gbp', 'is_flexible': False}–{'cents': 2500, 'currency': 'gbp'}",
     "priceNote": "range biglietti Luma",
     "audience": "Founders / investors / startup community",
     "distKm": 150,
     "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
     "url": "https://luma.com/23ouw1kg",
-    "notes": "Fonte Luma · Personal · Host: Natasha Gorobinskaya, Alina Verbenchuk, Alex Bapti",
+    "notes": "Fonte Luma · Personal · Host: Natasha Gorobinskaya, Alina Verbenchuk, Hege Tollerud - Brighteye",
     "goodForCards": true,
     "types": [
       "VC/Angel networking"
@@ -3784,6 +3839,31 @@
       "VC/Angel networking"
     ],
     "zone": "londra",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-tOhWKCKzmNhhLrO",
+    "name": "Pitch Please #11",
+    "startISO": "2026-09-29T20:00:00.000Z",
+    "endISO": "2026-09-29T22:00:00.000Z",
+    "format": "offline",
+    "venue": "AI House",
+    "address": "2801 Alaskan Wy, Seattle, WA 98121, USA",
+    "city": "Seattle",
+    "topic": "Pitch Please #11 — AI House early-stage AI startup pitches",
+    "price": "free",
+    "priceNote": "Gratis / Free (approval required)",
+    "audience": "Founders / AI community (investors limited)",
+    "distKm": null,
+    "distNote": "Seattle · fuori UK",
+    "url": "https://luma.com/zsy130n0",
+    "notes": "Fonte X→Luma · AI House Community · pitch session",
+    "goodForCards": true,
+    "types": [
+      "Pitch",
+      "Demo day"
+    ],
+    "zone": "us",
     "source": "luma"
   },
   {
@@ -4107,6 +4187,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-kLG8VSfJrynzQHw",
+    "name": "Female Founders Breakfast: Berlin",
+    "startISO": "2026-09-30T07:00:00.000Z",
+    "endISO": "2026-09-30T08:30:00.000Z",
+    "format": "offline",
+    "venue": "Berlin, Germany",
+    "address": "1000 Satellites Berlin-Chaussee",
+    "city": "Berlin",
+    "topic": "Female Founders Breakfast: Berlin",
+    "price": "{'cents': 1500, 'currency': 'eur', 'is_flexible': False}–{'cents': 2500, 'currency': 'eur'}",
+    "priceNote": "range biglietti Luma",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/mr18w8c0",
+    "notes": "Fonte Luma · Female Founders Breakfast — Europe · Host: Female Founders Breakfasts, Nina Simone",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "eu_west",
+    "source": "luma"
+  },
+  {
     "id": "luma-evt-SIDB65YWRiPF0ZH",
     "name": "Claude x Softr: AI Build Day Hackathon",
     "startISO": "2026-09-30T09:00:00.000Z",
@@ -4375,6 +4479,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-k3TE3eONMTnZVuD",
+    "name": "Founders Stories: Building from Paris to San Francisco",
+    "startISO": "2026-09-30T16:00:00.000Z",
+    "endISO": "2026-09-30T19:00:00.000Z",
+    "format": "offline",
+    "venue": "Paris, France",
+    "address": "STATION F",
+    "city": "Paris",
+    "topic": "Founders Stories: Building from Paris to San Francisco",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/rtcmig0u",
+    "notes": "Fonte Luma · Personal · Host: Louis Comte, Léon Ligeron, Anurat Karki",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "eu_west",
+    "source": "luma"
+  },
+  {
     "id": "luma-evt-d5TLiEMRDetDMEu",
     "name": "Durable AI Meetup Paris @ ScorePlay",
     "startISO": "2026-09-30T16:30:00.000Z",
@@ -4614,7 +4742,7 @@
     "distKm": 156,
     "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
     "url": "https://luma.com/2cod6m34",
-    "notes": "Fonte Luma · YAAD's Black History Month Clubhouse · Host: YAAD CIC, Afribond Ltd",
+    "notes": "Fonte Luma · YAAD Black History Month Clubhouse · Host: YAAD CIC, Afribond Ltd",
     "goodForCards": true,
     "types": [
       "Pitch"
@@ -4632,7 +4760,7 @@
     "address": "London, United Kingdom",
     "city": "London",
     "topic": "Ground Game 101: Cutting Through the Noise with IRL Events for GTM — PLUGGED",
-    "price": "£18–£30",
+    "price": "{'cents': 1800, 'currency': 'gbp', 'is_flexible': False}–{'cents': 3000, 'currency': 'gbp'}",
     "priceNote": "range biglietti Luma",
     "audience": "Founders / investors / startup community",
     "distKm": 159,
@@ -4746,6 +4874,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-H1VWwDDl5fOTl7x",
+    "name": "Junto Founder Dinner (Hosted by Andrew & Friends)",
+    "startISO": "2026-09-30T22:00:00.000Z",
+    "endISO": "2026-10-01T00:30:00.000Z",
+    "format": "offline",
+    "venue": "New York, NY",
+    "address": "New York, NY",
+    "city": "New York",
+    "topic": "Junto Founder Dinner (Hosted by Andrew & Friends)",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/juntodinnersep30",
+    "notes": "Fonte Luma · Andrew's Yeung's Tech Events · Host: Andrew Yeung",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "us",
+    "source": "luma"
+  },
+  {
     "id": "luma-evt-fbXDcwz01gSiIbn",
     "name": "Cache Me Outside: A Rooftop Party at the AI Conference",
     "startISO": "2026-10-01T00:00:00.000Z",
@@ -4810,6 +4962,37 @@
     "distNote": "San Francisco",
     "url": "https://luma.com/icar7u2x",
     "notes": "Luma · OpenRouter Events",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "us",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-zVWy8jhVUTwp8PG",
+    "name": "Bay Area Frontier Research Club #25 | Recursive Self-Improvement (dinner + paper discussion @ The Residency)",
+    "startISO": "2026-10-01T00:30:00.000Z",
+    "endISO": "2026-10-01T03:30:00.000Z",
+    "format": "offline",
+    "venue": {
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+      "timezone": "America/Los_Angeles",
+      "country_code": "US"
+    },
+    "address": "San Francisco, CA",
+    "city": "San Francisco",
+    "topic": "Bay Area Frontier Research Club #25 | Recursive Self-Improvement (dinner + paper discussion @ The Residency) — The Frontier Syndicate",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/10emr4ao",
+    "notes": "Fonte Luma · The Frontier Syndicate · Host: Kristopher Floyd, Gural Nuriyev, tobi Oyebade",
     "goodForCards": true,
     "types": [
       "VC/Angel networking"
@@ -5069,7 +5252,7 @@
     "endISO": "2026-10-01T19:00:00.000Z",
     "format": "offline",
     "venue": "London, United Kingdom",
-    "address": "The Light Bar & Dining",
+    "address": "London, United Kingdom",
     "city": "London",
     "topic": "Sifted Summit Final Pour — Personal",
     "price": "Gratis / Free",
@@ -5103,6 +5286,68 @@
     "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
     "url": "https://luma.com/foundersx-v8c9",
     "notes": "Fonte Luma · FoundersX · Host: Wes Rashid, Asima",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-ICUOPWF0RP6fhh8",
+    "name": "Google's Geoff Keeling – AI Moral Patienthood Is Probably Not Relational",
+    "startISO": "2026-10-01T17:30:00.000Z",
+    "endISO": "2026-10-01T21:00:00.000Z",
+    "format": "offline",
+    "venue": {
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "place_id": "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+      "timezone": "Europe/London",
+      "localized": {
+        "en-GB": {
+          "city": "London",
+          "region": "England",
+          "country": "United Kingdom"
+        }
+      },
+      "country_code": "GB"
+    },
+    "address": "London, United Kingdom",
+    "city": "London",
+    "topic": "Google's Geoff Keeling – AI Moral Patienthood Is Probably Not Relational — Sentio",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": 158,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/fiwjvfbz",
+    "notes": "Fonte Luma · Sentio · Host: Joe Murray, Sentio",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-isLdUlifxGywJAe",
+    "name": "Stripe padel club",
+    "startISO": "2026-10-01T18:30:00.000Z",
+    "endISO": "2026-10-01T20:00:00.000Z",
+    "format": "offline",
+    "venue": "London, United Kingdom",
+    "address": "House of Racquet",
+    "city": "London",
+    "topic": "Stripe padel club — Stripe Startups",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": 156,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/08yij7pu",
+    "notes": "Fonte Luma · Stripe Startups · Host: Stripe Startups",
     "goodForCards": true,
     "types": [
       "VC/Angel networking"
@@ -5223,6 +5468,37 @@
     "distNote": "Boston",
     "url": "https://luma.com/tfzeaek5",
     "notes": "Luma · MAIC",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "us",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-VG1EZe91f8kBPWw",
+    "name": "Girls in Growth: On The Edge (of Glory)",
+    "startISO": "2026-10-01T22:00:00.000Z",
+    "endISO": "2026-10-02T00:00:00.000Z",
+    "format": "offline",
+    "venue": {
+      "city": "San Francisco",
+      "region": "California",
+      "country": "United States",
+      "place_id": "ChIJIQBpAG2ahYAR_6128GcTUEo",
+      "timezone": "America/Los_Angeles",
+      "country_code": "US"
+    },
+    "address": "Edge NYC",
+    "city": "New York",
+    "topic": "Girls in Growth: On The Edge (of Glory) — Girls in Growth",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/tslx32jg",
+    "notes": "Fonte Luma · Girls in Growth · Host: Catherine Belyakov, Lowrie Hilladakis",
     "goodForCards": true,
     "types": [
       "VC/Angel networking"
@@ -5997,6 +6273,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-QLwn96az6oo8Bvi",
+    "name": "The Angel Market x Cloud Closet: Jewelry & Accessory Pop-Up",
+    "startISO": "2026-10-04T16:00:00.000Z",
+    "endISO": "2026-10-04T22:00:00.000Z",
+    "format": "offline",
+    "venue": "New York, NY",
+    "address": "178 Bleecker St",
+    "city": "New York",
+    "topic": "The Angel Market x Cloud Closet: Jewelry & Accessory Pop-Up",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/hixlp29d",
+    "notes": "Fonte Luma · Personal · Host: Dia Gauthier, Cate Navarrete, Caroline Lakshmanan",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "us",
+    "source": "luma"
+  },
+  {
     "id": "luma-evt-ErhWskvC3BFVD90",
     "name": "GRANADA Echo Park + CERAMICAH",
     "startISO": "2026-10-04T17:00:00.000Z",
@@ -6090,6 +6390,30 @@
       "VC/Angel networking"
     ],
     "zone": "us",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-QBD293Q6Kj6xwlB",
+    "name": "Future States: Hackathon at No 10",
+    "startISO": "2026-10-05T08:00:00.000Z",
+    "endISO": "2026-10-06T16:00:00.000Z",
+    "format": "offline",
+    "venue": "London, United Kingdom",
+    "address": "10 Downing St",
+    "city": "London",
+    "topic": "Future States: Hackathon at No 10",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": 155,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/9vr0zktj",
+    "notes": "Fonte Luma · No 10 Innovation Fellows · Host: David Gelberg, Katie, Eoin Mulgrew",
+    "goodForCards": true,
+    "types": [
+      "Workshop"
+    ],
+    "zone": "londra",
     "source": "luma"
   },
   {
@@ -6252,6 +6576,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-qZePXmFRhjLBjB2",
+    "name": "Fireside Chat with Arthur Hayes and CNBC 🇸🇬 (In Person)",
+    "startISO": "2026-10-06T05:30:00.000Z",
+    "endISO": "2026-10-06T06:45:00.000Z",
+    "format": "offline",
+    "venue": "Singapore",
+    "address": "The Fullerton Hotel Singapore",
+    "city": "Singapore",
+    "topic": "Fireside Chat with Arthur Hayes and CNBC 🇸🇬 (In Person) — Gamma Prime Investing Summit",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/ArthurHayes",
+    "notes": "Fonte Luma · Gamma Prime Investing Summit · Host: Gamma Prime",
+    "goodForCards": true,
+    "types": [
+      "Conferenza/Fiera"
+    ],
+    "zone": "asia",
+    "source": "luma"
+  },
+  {
     "id": "luma-evt-ilA1Gqac3qL1LPC",
     "name": "AI v marketingu prakticky 4.0",
     "startISO": "2026-10-06T07:00:00.000Z",
@@ -6395,7 +6743,7 @@
     "address": "London, England",
     "city": "London",
     "topic": "🇧🇪🇬🇧 Embassy Pitch Series: UK x Belgium",
-    "price": "£30–£60",
+    "price": "{'cents': 3000, 'currency': 'gbp', 'is_flexible': False}–{'cents': 6000, 'currency': 'gbp'}",
     "priceNote": "range biglietti Luma",
     "audience": "Founders / investors / startup community",
     "distKm": 154,
@@ -6932,6 +7280,68 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-NzrsSpVRxuFo8WU",
+    "name": "Co-Founder Matching Night",
+    "startISO": "2026-10-07T16:30:00.000Z",
+    "endISO": "2026-10-07T20:00:00.000Z",
+    "format": "offline",
+    "venue": "Berlin, Germany",
+    "address": "Berlin, Germany",
+    "city": "Berlin",
+    "topic": "Co-Founder Matching Night",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/3a5lxu30",
+    "notes": "Fonte Luma · Personal · Host: Antler in Continental Europe, b2venture, Alan Poensgen",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "eu_west",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-5vy6mn8ktCqU7uA",
+    "name": "Deeptech Week Founders Dinner with Canopy",
+    "startISO": "2026-10-07T17:30:00.000Z",
+    "endISO": "2026-10-07T20:00:00.000Z",
+    "format": "offline",
+    "venue": {
+      "city": "London",
+      "region": "England",
+      "country": "United Kingdom",
+      "place_id": "ChIJdd4hrwug2EcRmSrV3Vo6llI",
+      "timezone": "Europe/London",
+      "localized": {
+        "en-GB": {
+          "city": "London",
+          "region": "England",
+          "country": "United Kingdom"
+        }
+      },
+      "country_code": "GB"
+    },
+    "address": "London, United Kingdom",
+    "city": "London",
+    "topic": "Deeptech Week Founders Dinner with Canopy",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": 156,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/ii3rx8rb",
+    "notes": "Fonte Luma · Critical Mass · Host: Critical Mass, Toby Call, Jupiter Lucas B.",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
     "id": "luma-evt-OamPydjOdi8QuFh",
     "name": "Design Roasting Session (vol. 2)",
     "startISO": "2026-10-07T21:00:00.000Z",
@@ -7097,6 +7507,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-Uv7Te4pSYm4Xrca",
+    "name": "Women in Applied AI Breakfast, London",
+    "startISO": "2026-10-08T07:30:00.000Z",
+    "endISO": "2026-10-08T09:00:00.000Z",
+    "format": "offline",
+    "venue": "London, United Kingdom",
+    "address": "London, United Kingdom",
+    "city": "London",
+    "topic": "Women in Applied AI Breakfast, London — Encode: AI for Science Fellowship - Pillar VC x ARIA",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": 156,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/7h7n5hme",
+    "notes": "Fonte Luma · Encode: AI for Science Fellowship - Pillar VC x ARIA · Host: Encode: AI for Science, by Pillar VC, Incubator for AI (i.AI)",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
     "id": "luma-evt-g7DGptJAsHqwiSa",
     "name": "The Breakfast Table | noa x Tech Funding News",
     "startISO": "2026-10-08T07:45:00.000Z",
@@ -7113,6 +7547,30 @@
     "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
     "url": "https://luma.com/nbro3svy",
     "notes": "Fonte Luma · TFN events calendar · Host: Akansha Dimri, Izzy Dipple",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-mUlMYdt4GuPXaoc",
+    "name": "Co-working for women in tech",
+    "startISO": "2026-10-08T08:30:00.000Z",
+    "endISO": "2026-10-08T16:00:00.000Z",
+    "format": "offline",
+    "venue": "London, United Kingdom",
+    "address": "London, United Kingdom",
+    "city": "London",
+    "topic": "Co-working for women in tech — Personal",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": 158,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/2cndg9ae",
+    "notes": "Fonte Luma · Personal · Host: Founders and Coders",
     "goodForCards": true,
     "types": [
       "VC/Angel networking"
@@ -7317,6 +7775,30 @@
       "Conferenza/Fiera"
     ],
     "zone": "asia",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-yFDdf64sOotW5uP",
+    "name": "Notion 🖤’s Dublin × Dublin AI Week: Student Hackathon",
+    "startISO": "2026-10-09T12:00:00.000Z",
+    "endISO": "2026-10-09T19:00:00.000Z",
+    "format": "offline",
+    "venue": "Dublin 7, Ireland",
+    "address": "Dublin 7, Ireland",
+    "city": "Dublin 7",
+    "topic": "Notion 🖤’s Dublin × Dublin AI Week: Student Hackathon",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/3tt6zlwr",
+    "notes": "Fonte Luma · Personal · Host: Lea Stanisavljevic, Give(a)Go",
+    "goodForCards": true,
+    "types": [
+      "Workshop"
+    ],
+    "zone": "eu_west",
     "source": "luma"
   },
   {
@@ -7607,7 +8089,7 @@
     "address": "St. Lydia's",
     "city": "Brooklyn",
     "topic": "Friends of the Studio: Home Cafe — Studio Bumi",
-    "price": "$13.07–$16.33",
+    "price": "{'cents': 1307, 'currency': 'usd', 'is_flexible': False}–{'cents': 1633, 'currency': 'usd'}",
     "priceNote": "range biglietti Luma",
     "audience": "Founders / investors / startup community",
     "distKm": null,
@@ -7889,6 +8371,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-hwQZ17AK1GzmCvS",
+    "name": "Pricing AI Adoption",
+    "startISO": "2026-10-13T16:30:00.000Z",
+    "endISO": "2026-10-13T19:30:00.000Z",
+    "format": "offline",
+    "venue": "Berlin, Germany",
+    "address": "Berlin, Germany",
+    "city": "Berlin",
+    "topic": "Pricing AI Adoption — Reasoning Project",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/pricing-ai-adoption",
+    "notes": "Fonte Luma · Reasoning Project · Host: Juhana Peltomaa, Michelangelo Pagliara",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "eu_west",
+    "source": "luma"
+  },
+  {
     "id": "luma-evt-c9YrxGNxTM04zKy",
     "name": "Startup Pitch & Networking in London",
     "startISO": "2026-10-13T17:00:00.000Z",
@@ -7898,7 +8404,7 @@
     "address": "10th Fulham Scouts",
     "city": "London",
     "topic": "Startup Pitch & Networking in London",
-    "price": "$10–$500",
+    "price": "{'cents': 1000, 'currency': 'usd', 'is_flexible': False}–{'cents': 50000, 'currency': 'usd'}",
     "priceNote": "range biglietti Luma",
     "audience": "Founders / investors / startup community",
     "distKm": 150,
@@ -8058,6 +8564,63 @@
     ],
     "zone": "eu_west",
     "source": "luma"
+  },
+  {
+    "id": "luma-evt-igeo3HnEmzjvYvL",
+    "name": "Founders Café",
+    "startISO": "2026-10-14T13:00:00.000Z",
+    "endISO": "2026-10-14T16:00:00.000Z",
+    "format": "offline",
+    "venue": {
+      "city": "Dublin",
+      "region": "County Dublin",
+      "country": "Ireland",
+      "place_id": "ChIJL6wn6oAOZ0gRoHExl6nHAAo",
+      "timezone": "Europe/Dublin",
+      "country_code": "IE"
+    },
+    "address": "Dogpatch Labs",
+    "city": "Dublin 1",
+    "topic": "Founders Café",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/rxqhixk8",
+    "notes": "Fonte Luma · Dogpatch Labs · Host: Dogpatch Labs",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "eu_west",
+    "source": "luma"
+  },
+  {
+    "id": "eb-geovation-autumn-showcase-2026-10-14",
+    "name": "Geovation Autumn Showcase 2026",
+    "startISO": "2026-10-14T15:30:00+01:00",
+    "endISO": "2026-10-14T19:00:00+01:00",
+    "format": "offline",
+    "venue": "Geovation Hub",
+    "address": "Sutton Yard, 4th Floor, 65 Goswell Road, London EC1V 7EN",
+    "city": "London",
+    "topic": "Geovation Autumn Showcase 2026 — accelerator cohort pitches + investor networking",
+    "price": "see_eventbrite",
+    "priceNote": "Vedi Eventbrite",
+    "audience": "Founders / investors / startup community",
+    "distKm": 157.4,
+    "distNote": "da Bath centre",
+    "url": "https://www.eventbrite.co.uk/e/geovation-autumn-showcase-2026-tickets-1989828657078",
+    "notes": "Fonte Eventbrite · Geovation · pitch showcase cohort 22",
+    "goodForCards": true,
+    "types": [
+      "Pitch",
+      "Demo day",
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "eventbrite"
   },
   {
     "id": "luma-evt-Ep4LpjgXBj81eJR",
@@ -8278,6 +8841,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-q4ZoqAXNrcl3bDT",
+    "name": "Physical AI Hack",
+    "startISO": "2026-10-17T08:00:00.000Z",
+    "endISO": "2026-10-17T17:00:00.000Z",
+    "format": "offline",
+    "venue": "London, United Kingdom",
+    "address": "London, United Kingdom",
+    "city": "London",
+    "topic": "Physical AI Hack — Reasoning Project",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": 155,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/physicalaihack",
+    "notes": "Fonte Luma · Reasoning Project · Host: Michelangelo Pagliara, Juhana Peltomaa, David Pacák",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
     "id": "luma-evt-eYOxDuG9Gw4qAwj",
     "name": "MITAI Conference 2026: Age of Agency",
     "startISO": "2026-10-17T15:15:00.000Z",
@@ -8287,7 +8874,7 @@
     "address": "Computer History Museum",
     "city": "Mountain View",
     "topic": "MITAI Conference 2026: Age of Agency — MITAS - MIT Alumni Startups",
-    "price": "$314–$3141",
+    "price": "{'cents': 31400, 'currency': 'usd', 'is_flexible': False}–{'cents': 314100, 'currency': 'usd'}",
     "priceNote": "range biglietti Luma",
     "audience": "Founders / investors / startup community",
     "distKm": null,
@@ -8593,6 +9180,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-2gHTqhbNIut9G5D",
+    "name": "Founder House Singapore 🇸🇬",
+    "startISO": "2026-10-23T01:30:00.000Z",
+    "endISO": "2026-10-25T11:30:00.000Z",
+    "format": "offline",
+    "venue": "Singapore",
+    "address": "Singapore",
+    "city": "Singapore",
+    "topic": "Founder House Singapore 🇸🇬",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/openhouse-singapore",
+    "notes": "Fonte Luma · Arbitrum · Host: Arbitrum, Aditi Chopra",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "asia",
+    "source": "luma"
+  },
+  {
     "id": "luma-evt-mXEN9eV6l6Ok7cB",
     "name": "Miami AI Summit",
     "startISO": "2026-10-23T14:00:00.000Z",
@@ -8651,7 +9262,7 @@
     "address": "Amsterdam, Netherlands",
     "city": "Amsterdam",
     "topic": "IKEAthon Amsterdam #1 — Personal",
-    "price": "€29.5–€34.5",
+    "price": "{'cents': 2950, 'currency': 'eur', 'is_flexible': False}–{'cents': 3450, 'currency': 'eur'}",
     "priceNote": "range biglietti Luma",
     "audience": "Founders / investors / startup community",
     "distKm": null,
@@ -8790,6 +9401,58 @@
     "source": "web"
   },
   {
+    "id": "eb-barclays-demo-day-universities-2026-11-03",
+    "name": "Barclays Demo Day: Best of Universities",
+    "startISO": "2026-11-03T12:30:00+00:00",
+    "endISO": "2026-11-03T16:15:00+00:00",
+    "format": "offline",
+    "venue": "Barclays Head Office",
+    "address": "1 Churchill Place, Canary Wharf, London E14 5HP",
+    "city": "London",
+    "topic": "Barclays Demo Day — 45 university ventures pitching to ~200 investors",
+    "price": "see_eventbrite",
+    "priceNote": "Vedi Eventbrite (investor-focused)",
+    "audience": "Investors / university spinouts / founders",
+    "distKm": 162.4,
+    "distNote": "da Bath centre",
+    "url": "https://www.eventbrite.co.uk/e/join-us-for-barclays-demo-day-best-of-universities-tickets-1993678998553",
+    "notes": "Fonte Eventbrite · Barclays Eagle Labs · demo day fundraising",
+    "goodForCards": true,
+    "types": [
+      "Demo day",
+      "Pitch",
+      "Fundraising",
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "eventbrite"
+  },
+  {
+    "id": "eb-pitch-club-bristol-natwest-2026-11-05",
+    "name": "Pitch Club: How to talk about your business and make people care",
+    "startISO": "2026-11-05T13:30:00+00:00",
+    "endISO": "2026-11-05T14:30:00+00:00",
+    "format": "offline",
+    "venue": "NatWest Accelerator",
+    "address": "2 Avon Street, Redcliffe, Bristol BS2 0PT",
+    "city": "Bristol",
+    "topic": "Pitch Club Bristol — communicate to customers/investors",
+    "price": "see_eventbrite",
+    "priceNote": "Vedi Eventbrite",
+    "audience": "Founders / startup community",
+    "distKm": 17.4,
+    "distNote": "da Bath centre",
+    "url": "https://www.eventbrite.co.uk/e/pitch-club-how-to-talk-about-your-business-and-make-people-care-tickets-1994833712333",
+    "notes": "Fonte Eventbrite · Bristol NatWest Accelerator · pitch workshop",
+    "goodForCards": true,
+    "types": [
+      "Pitch",
+      "Workshop"
+    ],
+    "zone": "bristol_bath",
+    "source": "eventbrite"
+  },
+  {
     "id": "luma-evt-HXoHzs3ONFXTFxY",
     "name": "The Outliers Summit (Nov 5 & 6)",
     "startISO": "2026-11-05T14:00:00.000Z",
@@ -8799,7 +9462,7 @@
     "address": "Queens, NY",
     "city": "Queens",
     "topic": "The Outliers Summit (Nov 5 & 6) — Andrew's Yeung's Tech Events",
-    "price": "$119–$2499",
+    "price": "{'cents': 11900, 'currency': 'usd', 'is_flexible': False}–{'cents': 249900, 'currency': 'usd'}",
     "priceNote": "range biglietti Luma",
     "audience": "Founders / investors / startup community",
     "distKm": null,
@@ -8888,6 +9551,31 @@
     ],
     "zone": "londra",
     "source": "eventbrite"
+  },
+  {
+    "id": "luma-evt-Ntjm9lFfQQ1c7a8",
+    "name": "Startup Pitch & Networking in London",
+    "startISO": "2026-11-10T18:00:00.000Z",
+    "endISO": "2026-11-10T21:00:00.000Z",
+    "format": "offline",
+    "venue": "The Roundabout Old Street",
+    "address": "The Roundabout Old Street, London",
+    "city": "London",
+    "topic": "Startup Pitch & Networking in London — live pitches + investor feedback",
+    "price": "$10–$500",
+    "priceNote": "$10–$500",
+    "audience": "Founders / investors / startup community",
+    "distKm": 158.0,
+    "distNote": "da Bath centre",
+    "url": "https://luma.com/2h86s6ht",
+    "notes": "Fonte Meetup→Luma · Startup Valley style pitch night",
+    "goodForCards": true,
+    "types": [
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "luma"
   },
   {
     "id": "web-pitchup-tsw-2026-11-11",
