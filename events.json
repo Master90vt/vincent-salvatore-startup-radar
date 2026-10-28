@@ -1,223 +1,5 @@
 [
   {
-    "id": "web-inception-super-demo-day-2026-10-19",
-    "name": "Inception Studio Super Demo Day (hybrid)",
-    "startISO": "2026-10-19T17:00:00-07:00",
-    "endISO": "2026-10-19T20:00:00-07:00",
-    "format": "hybrid",
-    "venue": "Inception Studio (hybrid — PDT)",
-    "address": "Hybrid · dettagli venue agli iscritti",
-    "city": "San Francisco Bay Area / Online",
-    "topic": "4–6 AI/startup companies pitch 6 min ciascuno a VC e angel",
-    "price": "Vedi sito",
-    "priceNote": "registrazione via Inception Studio",
-    "audience": "Founders, VCs, angels, Inception community",
-    "distKm": null,
-    "distNote": "USA / online hybrid",
-    "url": "https://www.inceptionstudio.org/demo-day/",
-    "notes": "Fonte Inception Studio · Super Demo Day semiannuale · hybrid PDT",
-    "goodForCards": false,
-    "types": [
-      "Demo day",
-      "Pitch",
-      "VC/Angel networking"
-    ],
-    "zone": "us",
-    "source": "web"
-  },
-  {
-    "id": "luma-evt-gugLFXLLCZga40x",
-    "name": "Startmate Demo Day - W26",
-    "startISO": "2026-10-20T07:00:00.000Z",
-    "endISO": "2026-10-20T12:00:00.000Z",
-    "format": "offline",
-    "venue": "The Timber Yard",
-    "address": "The Timber Yard, 351 Plummer St, Port Melbourne VIC 3207, Australia",
-    "city": "Port Melbourne",
-    "topic": "Startmate Demo Day - W26",
-    "price": "30.00 AUD",
-    "priceNote": "AUD 30",
-    "audience": "Founders / investors / startup community",
-    "distKm": null,
-    "distNote": "Port Melbourne",
-    "url": "https://luma.com/DemoDay-W26",
-    "notes": "Luma · ANZ Startup Events Calendar",
-    "goodForCards": true,
-    "types": [
-      "Demo day"
-    ],
-    "zone": "asia",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-8Lo24T7ScxsDJ7F",
-    "name": "Tech Happy Hours 2026",
-    "startISO": "2026-10-20T10:30:00.000Z",
-    "endISO": "2026-10-20T16:00:00.000Z",
-    "format": "offline",
-    "venue": "OX Club Prague",
-    "address": "OX Club Prague, Francouzská 75/4, 120 00 Praha 2-Vinohrady, Czechia",
-    "city": "Hlavní město Praha",
-    "topic": "Tech Happy Hours 2026",
-    "price": "290.00 CZK",
-    "priceNote": "CZK 290",
-    "audience": "Founders / investors / startup community",
-    "distKm": null,
-    "distNote": "Hlavní město Praha",
-    "url": "https://luma.com/1asiah8a",
-    "notes": "Luma · STARTUP KITCHEN EVENTS",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "other",
-    "source": "luma"
-  },
-  {
-    "id": "pitch-confidence-setsquared-2026-10-20",
-    "name": "Pitch with Confidence — SETsquared",
-    "startISO": "2026-10-20T14:00:00+01:00",
-    "endISO": "2026-10-20T16:00:00+01:00",
-    "format": "offline",
-    "venue": "Sloane Robinson Building",
-    "address": "Cattlemarket Road, Bristol BS1 6AZ",
-    "city": "Bristol",
-    "topic": "Mindset, presence e performance nel pitch",
-    "price": "Gratis",
-    "priceNote": "gratuito ma riservato a membership/studenti",
-    "audience": "Membri SETsquared / studenti",
-    "distKm": 20,
-    "distNote": "~30–40 min in auto · 11–15 min in treno",
-    "url": "https://www.eventbrite.co.uk/e/pitch-with-confidence-mindset-presence-and-performance-tickets-2000961198810",
-    "notes": "Workshop (non pitch night) · business card: medio",
-    "goodForCards": false,
-    "types": [
-      "Workshop"
-    ],
-    "zone": "bristol_bath",
-    "source": "eventbrite"
-  },
-  {
-    "id": "luma-evt-9nHerd18JwslOs0",
-    "name": "Climate Resilience in the Age of AI – An Evening with Innovators",
-    "startISO": "2026-10-20T16:00:00.000Z",
-    "endISO": "2026-10-20T19:00:00.000Z",
-    "format": "offline",
-    "venue": "Soho House Stockholm",
-    "address": "Soho House Stockholm, Majorsgatan 7, 114 47 Stockholm, Sweden",
-    "city": "Stockholm",
-    "topic": "Climate Resilience in the Age of AI – An Evening with Innovators",
-    "price": "Gratis / Free",
-    "priceNote": "Gratis / Free",
-    "audience": "Founders / investors / startup community",
-    "distKm": null,
-    "distNote": "Stockholm",
-    "url": "https://luma.com/r3nc2lkw",
-    "notes": "Luma · Personal",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "eu_west",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-IUZHBuPDsrnCCfu",
-    "name": "ElevenLabs Startup Meetup Paris",
-    "startISO": "2026-10-20T16:00:00.000Z",
-    "endISO": "2026-10-20T19:00:00.000Z",
-    "format": "offline",
-    "venue": "12 Rue Martel",
-    "address": "12 Rue Martel",
-    "city": "Paris",
-    "topic": "ElevenLabs Startup Meetup Paris",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": null,
-    "distNote": null,
-    "url": "https://luma.com/elevenlabsparis",
-    "notes": "Fonte Luma · HYPE: IRL tech events · Host: John Roche, Jonathan Chang, Shana Inch",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "eu_west",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-9PsRXKvj1Hqf55o",
-    "name": "AI Native Autonomous Lending - Panel Discussion",
-    "startISO": "2026-10-20T16:30:00.000Z",
-    "endISO": "2026-10-20T19:00:00.000Z",
-    "format": "offline",
-    "venue": "London, United Kingdom",
-    "address": "London, United Kingdom",
-    "city": "London",
-    "topic": "AI Native Autonomous Lending - Panel Discussion — GetFutureReady Community",
-    "price": "£4.99–£25",
-    "priceNote": "range biglietti Luma",
-    "audience": "Founders / investors / startup community",
-    "distKm": 154,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://luma.com/dcmsspj4",
-    "notes": "Fonte Luma · GetFutureReady Community · Host: William Lorenz, Max Erraouhi, Nardev",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "londra",
-    "source": "luma"
-  },
-  {
-    "id": "luma-evt-ye9vR1eTL2sLsJq",
-    "name": "FinOps Hackathon",
-    "startISO": "2026-10-20T16:45:00.000Z",
-    "endISO": "2026-10-20T22:00:00.000Z",
-    "format": "offline",
-    "venue": "London, United Kingdom",
-    "address": "London, United Kingdom",
-    "city": "London",
-    "topic": "FinOps Hackathon",
-    "price": "Gratis / Free",
-    "priceNote": "gratuito",
-    "audience": "Founders / investors / startup community",
-    "distKm": 159,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://luma.com/a8ig66i3",
-    "notes": "Fonte Luma · Seapoint · Host: Marcela Donatello, Joanna Wlazlak, Gamal Mubarak",
-    "goodForCards": true,
-    "types": [
-      "Workshop"
-    ],
-    "zone": "londra",
-    "source": "luma"
-  },
-  {
-    "id": "eb-vc-hnwi-gherkin-london-2026-10-20",
-    "name": "Venture Capital + HNWI October City Business Networking At The Gherkin",
-    "startISO": "2026-10-20T18:00:00+01:00",
-    "endISO": "2026-10-20T20:30:00+01:00",
-    "format": "offline",
-    "venue": "Sterling Bar, 30 St Mary Axe (The Gherkin)",
-    "address": "30 St Mary Axe, London EC3A 8BF",
-    "city": "London",
-    "topic": "Networking VC / investitori HNWI / startup tech — niente speech, attendee sheet stampato",
-    "price": "Vedi Eventbrite",
-    "priceNote": "biglietto include 2 drink + buffet · no refund",
-    "audience": "VC, startup investors, founders, service providers",
-    "distKm": 185,
-    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
-    "url": "https://www.eventbrite.co.uk/e/venture-capital-hnwi-october-city-business-networking-at-the-gherkin-tickets-1992042885896",
-    "notes": "Fonte Eventbrite · London Venture Capital (network 2000+ membri)",
-    "goodForCards": true,
-    "types": [
-      "VC/Angel networking"
-    ],
-    "zone": "londra",
-    "source": "eventbrite"
-  },
-  {
     "id": "luma-evt-1jHAzOec1ljMgwO",
     "name": "Founders Panel: The Agentic Stack",
     "startISO": "2026-10-21T01:30:00.000Z",
@@ -1803,6 +1585,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-NofogvD4pyKxWo0",
+    "name": "Climate Coffee London",
+    "startISO": "2026-10-29T08:30:00.000Z",
+    "endISO": "2026-10-29T10:30:00.000Z",
+    "format": "offline",
+    "venue": "London, United Kingdom",
+    "address": "St James's Café",
+    "city": "London",
+    "topic": "Climate Coffee London — Contrarian Ventures",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": 155,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/c018hi7z",
+    "notes": "Fonte Luma · Contrarian Ventures · Host: Agne Vizbare, Patrikas Feiferas",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
     "id": "web-greenhouse-demo-day-2026-10-29",
     "name": "Greenhouse ClimateTech Demo Day – Cohort 9",
     "startISO": "2026-10-29T13:00:00+00:00",
@@ -2201,6 +2007,32 @@
     "source": "luma"
   },
   {
+    "id": "web-unicorn-pitches-gsd-demo-day-2026-11-04",
+    "name": "Unicorn Pitches — GSD Demo Day (online)",
+    "startISO": "2026-11-04T10:00:00-08:00",
+    "endISO": "2026-11-04T12:00:00-08:00",
+    "format": "online",
+    "venue": "Online (Zoom)",
+    "address": "Online",
+    "city": "Online",
+    "topic": "Startup pitch a VC, business angel e investitori internazionali",
+    "price": "Gratis / Free (guest)",
+    "priceNote": "registrazione sul sito",
+    "audience": "Startups, VCs, angels",
+    "distKm": null,
+    "distNote": "Online — remote",
+    "url": "https://unicorn.events/46059083/",
+    "notes": "Fonte Unicorn Pitches · Zoom · 10:00 PT (18:00 UK)",
+    "goodForCards": false,
+    "types": [
+      "Demo day",
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "online",
+    "source": "web"
+  },
+  {
     "id": "luma-evt-AaAI1313ud7Q64J",
     "name": "Real Futures: Pitch Day",
     "startISO": "2026-11-04T14:00:00.000Z",
@@ -2220,6 +2052,30 @@
     "goodForCards": true,
     "types": [
       "Pitch"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-znm6qkLpxahr5nD",
+    "name": "Unruly Futures 2026 - State of the Future",
+    "startISO": "2026-11-04T14:00:00.000Z",
+    "endISO": "2026-11-04T20:00:00.000Z",
+    "format": "offline",
+    "venue": "London, United Kingdom",
+    "address": "London, United Kingdom",
+    "city": "London",
+    "topic": "Unruly Futures 2026 - State of the Future — Unruly Capital",
+    "price": "£199",
+    "priceNote": "da Luma ticket_info",
+    "audience": "Founders / investors / startup community",
+    "distKm": 157,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/unrulyfutures26",
+    "notes": "Fonte Luma · Unruly Capital · Host: Francesco Moiraghi, Philipp Greiner, Stefano Bernardi",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
     ],
     "zone": "londra",
     "source": "luma"
@@ -2249,6 +2105,30 @@
     "source": "luma"
   },
   {
+    "id": "luma-evt-BCyYYY4MD33ybEt",
+    "name": "Exploring Opportunities in... Quantum Computing",
+    "startISO": "2026-11-04T18:00:00.000Z",
+    "endISO": "2026-11-04T21:00:00.000Z",
+    "format": "offline",
+    "venue": "London, United Kingdom",
+    "address": "London, United Kingdom",
+    "city": "London",
+    "topic": "Exploring Opportunities in... Quantum Computing — London Venture Club",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": 155,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/2avxm2al",
+    "notes": "Fonte Luma · London Venture Club · Host: Mike McClelland, Suzanne Pengilley",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
     "id": "luma-evt-9ybaonHP6EVbpok",
     "name": "START your night UP | Founders in Tech & Innovation Meet Up by Envolve Entrepreneurship x CapsuleT Accelerator x Metavallon VC",
     "startISO": "2026-11-04T18:30:00.000Z",
@@ -2265,6 +2145,30 @@
     "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
     "url": "https://luma.com/wpf0fsol",
     "notes": "Fonte Luma · Personal · Host: Envolve Entrepreneurship",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
+    ],
+    "zone": "londra",
+    "source": "luma"
+  },
+  {
+    "id": "luma-evt-UUIPGxmUBeAbFqe",
+    "name": "0 to $10M ARR insider playbook | Seed to Series B start-ups",
+    "startISO": "2026-11-04T18:30:00.000Z",
+    "endISO": "2026-11-04T21:30:00.000Z",
+    "format": "offline",
+    "venue": "London, United Kingdom",
+    "address": "London, United Kingdom",
+    "city": "London",
+    "topic": "0 to $10M ARR insider playbook | Seed to Series B start-ups",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": 158,
+    "distNote": "~2h–2h30 in treno da Bath · ~2h30–3h in auto",
+    "url": "https://luma.com/revgentic-jumpstart",
+    "notes": "Fonte Luma · Jumpstart · Host: Jordan North, Lily, Amir",
     "goodForCards": true,
     "types": [
       "VC/Angel networking"
@@ -2366,6 +2270,55 @@
     "types": [
       "VC/Angel networking",
       "Conferenza/Fiera"
+    ],
+    "zone": "us",
+    "source": "luma"
+  },
+  {
+    "id": "web-pitchforce-seed-virtual-2026-11-05",
+    "name": "Seed Round Virtual PitchForce (5 Nov)",
+    "startISO": "2026-11-05T15:00:00-08:00",
+    "endISO": "2026-11-05T17:00:00-08:00",
+    "format": "online",
+    "venue": "Online (Zoom)",
+    "address": "Online",
+    "city": "Online",
+    "topic": "6 startup seed pitch 4 min a panel di investitori, Q&A e feedback",
+    "price": "Gratis / Free",
+    "priceNote": "registrazione sul sito",
+    "audience": "Founders, investors",
+    "distKm": null,
+    "distNote": "Online — remote",
+    "url": "https://events.pitch-force.com/events/seed-round-virtual-pitchforce-20",
+    "notes": "Fonte PitchForce/EcoVG · Zoom webinar · 15:00 PT (23:00 UK)",
+    "goodForCards": false,
+    "types": [
+      "Pitch",
+      "VC/Angel networking"
+    ],
+    "zone": "online",
+    "source": "web"
+  },
+  {
+    "id": "luma-evt-sFATJjXg2Uobhb1",
+    "name": "Boba Making for VCs and Founders",
+    "startISO": "2026-11-05T23:30:00.000Z",
+    "endISO": "2026-11-06T01:30:00.000Z",
+    "format": "offline",
+    "venue": "New York, NY",
+    "address": "New York, NY",
+    "city": "New York",
+    "topic": "Boba Making for VCs and Founders",
+    "price": "Gratis / Free",
+    "priceNote": "gratuito",
+    "audience": "Founders / investors / startup community",
+    "distKm": null,
+    "distNote": null,
+    "url": "https://luma.com/whcrrc4g",
+    "notes": "Fonte Luma · Personal · Host: Theophila Lee, Jazalyn Cruz, Weilyn Chong",
+    "goodForCards": true,
+    "types": [
+      "VC/Angel networking"
     ],
     "zone": "us",
     "source": "luma"
@@ -3073,6 +3026,31 @@
     "source": "web"
   },
   {
+    "id": "web-startup-colorado-demo-days-2026-11-18",
+    "name": "Startup Colorado — November Demo Days (virtual)",
+    "startISO": "2026-11-18T12:00:00-07:00",
+    "endISO": "2026-11-18T13:00:00-07:00",
+    "format": "online",
+    "venue": "Online (Zoom)",
+    "address": "Online",
+    "city": "Online",
+    "topic": "Pitch virtuali di founder (4 min + Q&A) a una giuria, premio in denaro",
+    "price": "Gratis / Free",
+    "priceNote": "registrazione sul sito",
+    "audience": "Founders, community, judges",
+    "distKm": null,
+    "distNote": "Online — remote",
+    "url": "https://startupcolorado.org/event/november-demo-days-with-startup-colorado/",
+    "notes": "Fonte Startup Colorado · audience online aperta · 12:00 MT (19:00 UK)",
+    "goodForCards": false,
+    "types": [
+      "Demo day",
+      "Pitch"
+    ],
+    "zone": "online",
+    "source": "web"
+  },
+  {
     "id": "luma-evt-X23E1wKbfvUUzws",
     "name": "Beyond Capital 2026",
     "startISO": "2026-11-18T13:00:00.000Z",
@@ -3298,6 +3276,31 @@
     ],
     "zone": "londra",
     "source": "ukbaa"
+  },
+  {
+    "id": "web-startup-canada-equal-slice-pitch-2026-11-24",
+    "name": "Startup Canada Equal Slice — Virtual Pitch Competition",
+    "startISO": "2026-11-24T09:00:00-08:00",
+    "endISO": "2026-11-24T15:00:00-08:00",
+    "format": "online",
+    "venue": "Online (Zoom)",
+    "address": "Online",
+    "city": "Online",
+    "topic": "Pitch competition virtuale, $100k in grant per founder early-stage",
+    "price": "Gratis / Free",
+    "priceNote": "registrazione sul sito",
+    "audience": "Early-stage founders (sottorappresentati), judges",
+    "distKm": null,
+    "distNote": "Online — remote",
+    "url": "https://luma.com/b4q7jfdl",
+    "notes": "Fonte Luma/Startup Canada · Zoom · 09:00 PT (17:00 UK) · iscrizione per pitch su candidatura",
+    "goodForCards": false,
+    "types": [
+      "Pitch",
+      "Fundraising"
+    ],
+    "zone": "online",
+    "source": "web"
   },
   {
     "id": "ukbaa-investment-futures-2026-11-24",
